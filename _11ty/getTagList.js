@@ -10,7 +10,8 @@ module.exports = function(collection) {
           case "all":
           case "nav":
           case "post":
-          case "posts":
+          case "zero-to-c1":
+          case "new-section":
             return false;
         }
 
