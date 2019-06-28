@@ -7,4 +7,21 @@ navtitle: About
 templateClass: tmpl-post
 ---
 
-I am a person that writes stuff.
+Hi there, everyone! 
+
+My name is Luke Hatch and I'm trying to learn French.                                   
+                                                                          ![Currently awaiting a more French looking photo]
+
+This mission started in June 2019 when I decided that I wanted to pursue a career in the international feed. As many of the big governmental organisation (e.g. the UN and the EU) work in both English and French, I saw it as essential to learn the language of Napoleon. Thus, I began immediately to search out useful links and books in this pursuit. I hope to find many more and to share them on this blog too. 
+
+### The deadline
+
+The name of this blog is inspired by [this reddit post](https://www.reddit.com/r/French/comments/7j37er/0_to_c1_in_a_year_lessons_learned/) and I hope to do something very similar, that is to learn French in less than a year and pass a C1 exam by Valentine's Day 2020. This is an ambitious target and I may well not succeed. This is a risk I'm prepared to take. Wish me luck!
+
+### My background
+
+In case you're interested, I'll give a very brief overview of my life. I am 23 years old and am an English native speaker. I studied Law with German and German Law at the University of Nottingham before spending a year teaching English in Klagenfurt, Austria. Consequently, my current German level is C1 and I'm very much hoping this will somehow come in useful when learning French. 
+In order to learn French as quickly as possible, I will be uprooting and moving to France, most probably to Montpellier in the south of France where I have some very good and lovely friends. I hope you'll follow me on my journey of French discovery (but won't be offended if you don't)!
+
+Ciao for now,
+Luke
