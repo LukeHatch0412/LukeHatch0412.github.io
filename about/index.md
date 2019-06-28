@@ -10,7 +10,7 @@ templateClass: tmpl-post
 Hi there, everyone! 
 
 My name is Luke Hatch and I'm trying to learn French.                                   
-                                                                          ![Currently awaiting a more French looking photo](34411320_1921620861222364_4449820443481735168_o.jpg)
+                                                                          ![Currently awaiting a more French looking photo](https://github.com/LukeHatch0412/lukehat.ch/blob/master/34411320_1921620861222364_4449820443481735168_o.jpg)
 
 This mission started in June 2019 when I decided that I wanted to pursue a career in the international feed. As many of the big governmental organisation (e.g. the UN and the EU) work in both English and French, I saw it as essential to learn the language of Napoleon. Thus, I began immediately to search out useful links and books in this pursuit. I hope to find many more and to share them on this blog too. 
 
