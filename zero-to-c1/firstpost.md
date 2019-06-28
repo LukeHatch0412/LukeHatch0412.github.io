@@ -25,13 +25,4 @@ That's all I've got to report so far, but I hope to be updating the blog with pr
 À bientôt!
 
 Luke
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
 
-// Test with a line break above this line.
-console.log('Test');
-```
