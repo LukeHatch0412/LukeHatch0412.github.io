@@ -25,3 +25,6 @@ In order to learn French as quickly as possible, I will be uprooting and moving 
 
 Ciao for now,
 Luke
+
+#### Credits
+I would be ungrateful if I didn't thank my good and very computer-gifted friend Andrew who helped me to set up this website. Check out his (much slicker) [website](https://andrewleedham.me). 
