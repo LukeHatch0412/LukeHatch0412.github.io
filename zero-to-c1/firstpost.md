@@ -2,8 +2,7 @@
 title: My very first post.
 description:
 date: 2018-05-01
-tags: 
-  - another-tag
+tags: updates, language learning
 layout: layouts/post.njk
 ---
 Well, hello there. My name's Luke Hatch and I hope to be making many more entries into this blog in the coming months. A few days ago, I begun learning French. Strictly speaking, I have learnt French to a low level before, but haven't spoken a word for a good 8 years now. After a change of circumstances, I have decided that I want to work in International Security and, as many of the biggest world institutions work in both English and French, I figured it would be a good idea to relearn the language of love. On this blog, I'll be sharing resources that I'm using and hopefully taking tips and receiving feedback. I also wanted to write something that would document the different stages of my development. I guess that's all folks.
