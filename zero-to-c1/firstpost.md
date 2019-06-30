@@ -1,7 +1,7 @@
 ---
 title: My very first post.
 description:
-date: 2018-05-01
+date: 2019-06-28
 tags: updates, language learning
 layout: layouts/post.njk
 ---
