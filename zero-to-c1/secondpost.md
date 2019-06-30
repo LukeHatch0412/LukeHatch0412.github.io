@@ -9,7 +9,7 @@ Hello again,
 
 Two days after my first post, I was considering what I could add to this little diary of mine to document my French learning experience. While procrastinating on doing French grammar, I decided to look at French music on youtube, as this had been really useful in me learning German, as long as nobody realises you're quoting a song. In that vain, I've decided to share my quite poorly researched list with you.
 
-###Time to face the music
+### Time to face the music
 
 First of all, [Stromae](https://en.wikipedia.org/wiki/Stromae).
 I currently have four of his songs in my playlist including;
