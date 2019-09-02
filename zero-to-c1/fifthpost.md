@@ -1,11 +1,10 @@
- ---
-title: A quick summary
+---
+title: Almost settled status
 description:
 date: 2019-09-02
-tags: updates, language learning
+tags: updates
 layout: layouts/post.njk
-	---
-
+---
 Well, hello. Or should I say bonjour.
 
 ##Updates
