@@ -1,5 +1,5 @@
 ---
-layout: layouts/home.njk
+layout: layouts/post.njk
 tags:
   - nav
 navtitle: LittleLaw Articles
