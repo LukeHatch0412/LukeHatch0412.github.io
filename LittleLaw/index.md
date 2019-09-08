@@ -1,9 +1,9 @@
 ---
 layout: layouts/post.njk
-title: About Me
+title: LittleLaw
 tags:
   - nav
-navtitle: About
+navtitle: LittleLaw Articles
 templateClass: tmpl-post
 ---
 
