@@ -1,8 +1,8 @@
 ---
-layout: layouts/LittleLaw Articles.njk
+layout: layouts/home.njk
 tags:
   - nav
-navtitle: LittleLaw
+navtitle: LittleLaw Articles
 ---
 
 ## Articles written for LittleLaw student magazine, reaching over 4,000 readers.
