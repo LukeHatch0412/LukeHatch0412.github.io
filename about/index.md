@@ -12,7 +12,7 @@ Hi there, everyone!
 My name is Luke Hatch and I'm trying to learn French .                                   
                                                                           
 
-This mission started in June 2019 when I decided that I wanted to pursue a career in the international field. As many of the big governmental organisation (e.g. the UN and the EU) work in both English and French, I saw it as essential to learn the language of Napoleon. Thus, I began immediately to search out useful links and books in this pursuit. I hope to find many more and to share them on this blog too. 
+This mission started in June 2019 when I decided that I wanted to pursue a career in the international field. As many of the big governmental organisations (e.g. the UN and the EU) work in both English and French, I saw it as essential to learn the language of Napoleon. Thus, I began immediately to search out useful links and books in this pursuit. I hope to find many more and to share them on this blog too. 
 
 ### The deadline
 
