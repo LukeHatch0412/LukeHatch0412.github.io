@@ -1,13 +1,13 @@
 {
   "title": "Zero To C1",
-  "url": "",
+  "url": 
   "description": "I am trying to learn french in a year.",
   "feed": {
     "subtitle": "I am trying to learn french in a year.",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "url": "",
-    "id": ""
+    "url": 
+    "id": 
   },
   "author": {
     "name": "Luke Hatch"
